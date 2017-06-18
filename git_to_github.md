@@ -1,5 +1,7 @@
-#git/github初级运用自如
+##git/github初级运用自如###
+
 '''对照阅读http://www.cnblogs.com/fnng/archive/2011/08/25/2153807.html'''
+
 Github: git项目托管网站，请先免费申请一个github帐号：www.github.com
 Git:分布式版本控制工具，http://d.download.csdn.net/down/3169511/z_y_liu89
 
